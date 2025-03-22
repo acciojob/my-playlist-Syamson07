@@ -1,23 +1,39 @@
-/*  your css code here. If applicable */
 h1{
-	text-align:center;
-}
-li{
-	list-style-type:none;
-}
-a{
-	text-decoration-line:none;
-	
-}
-h2{
-	text-align:center;
+	text-align:center
 }
 body{
 	background-color: rgb(204, 204, 204)
+
 }
-audio{
-	background-color: rgb(255, 255, 255); padding; border-radius
+.playlist-container{
+	background-color:#fff;
+	padding:20px;
+	border-radius:10px;
+	box-shadow:0 0 5px;
 }
-video{
-	background-color: rgb(255, 255, 255); padding; border-radius
+h2{
+	text-align:center
 }
+        .player_one, .player_two {
+            background-color: rgb(255, 255, 255);
+            padding: 10px;
+            border-radius: 10px;
+            margin: 20px auto;
+            text-align: center;
+            width: 100%;
+		}
+        a {
+            text-decoration-line: none;
+            color: black;
+            font-size: 18px;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        ul {
+            padding: 0;        }
+        li {
+            list-style-type: none;
+            margin: 10px 0;
+        }
+        
