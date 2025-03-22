@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+li{
+	list-style-type:none;
+}
+a{
+	text-decoration-line:none;
+	
+}
+h2{
+	text-align:center;
+}
+body{
+	background-color: rgb(204, 204, 204)
+}
+audio{
+	background-color: rgb(255, 255, 255); padding; border-radius
+}
+video{
+	background-color: rgb(255, 255, 255); padding; border-radius
+}
