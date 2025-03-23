@@ -9,7 +9,8 @@ body{
 	background-color:#fff;
 	padding:20px;
 	border-radius:10px;
-	box-shadow:0 0 5px;
+	border-style:solid;
+	border-color:black;
 }
 h2{
 	text-align:center
@@ -20,7 +21,9 @@ h2{
             border-radius: 10px;
             margin: 20px auto;
             text-align: center;
-            width: 100%;
+            width: 80%;
+		    border-style:solid;
+	        border-color:black;
 		}
         a {
             text-decoration-line: none;
